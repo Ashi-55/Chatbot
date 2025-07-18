@@ -33,8 +33,4 @@ python app.py
 ```
 
 
-```
 
----
-
-> 🔐 **Note**: Never commit your API key to public repositories!
