@@ -1,7 +1,6 @@
 import openai
 import gradio as gr
 
-# Replace this with your OpenAI API key
 openai.api_key = "your-api-key"
 
 def chat_with_gpt(message, history):
